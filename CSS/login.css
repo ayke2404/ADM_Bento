@@ -4,6 +4,7 @@
     height: 50px;
     width: auto;
 }
+
 .div2{
     background-color: red;
     text-align: center;
@@ -11,6 +12,7 @@
     margin-left: 40%;
     margin-right: 40%;
 }
+
 .div3{
     background-color: green;
     width: 40%;
@@ -18,13 +20,21 @@
     margin-right: 30%;
     height: 100PX;
 }
+
 .div4{
+    margin-top: 30px;
     background-color: purple;
-    width: 40%;
+    width: 48%;
     float: left;
+    height: 500px;
+    margin-bottom: 20px;
 }
+
 .div5{
+    margin-top: 30px;
     background-color: blue;
-    width: 40%;
+    width: 48%;
     float: right;
+    height: 500px;
+    margin-bottom: 20px;
 }
